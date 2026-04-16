@@ -1,5 +1,0 @@
-│  checkin.py	# 签到脚本
-│
-├─.github
-│  └─workflows
-│          gladosCheck.yml	# Actions 配置文件
